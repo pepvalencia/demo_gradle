@@ -1,2 +1,4 @@
 # demo_gradle
-hi! this is a spring demo with gradle
+Hi! This is a spring demo with gradle.
+
+To run: ./gradlew bootRun
